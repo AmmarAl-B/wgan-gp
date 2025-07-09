@@ -4,3 +4,9 @@
 tmp
 venv
 data
+synthetic_data_tvae.csv
+synthetic_keystroke_data.csv
+tabddpm_output
+sagan_results/models
+sagan_results/synthetic_data.csv
+models
