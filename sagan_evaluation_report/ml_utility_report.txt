@@ -1,0 +1,17 @@
+
+    Machine Learning Utility Report (Train-Synthetic, Test-Real)
+    ============================================================
+    Model: Isolation Forest (Anomaly Detector)
+
+    1. The model was trained ONLY on the synthetic data.
+    2. The model was then tested on the REAL benign data.
+
+    Result:
+    -------
+    - Accuracy: 76.19% of the REAL samples were correctly identified as 'normal' by the model.
+
+    Interpretation:
+    - A high accuracy (>90-95%) suggests that the synthetic data is a good substitute for the real data,
+      as the model learned the underlying patterns of normal behavior from it.
+    - A low accuracy suggests the synthetic data's distribution is significantly different from the real data.
+    

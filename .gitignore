@@ -2,3 +2,4 @@
 .ftpconfig
 *.orig
 tmp
+venv

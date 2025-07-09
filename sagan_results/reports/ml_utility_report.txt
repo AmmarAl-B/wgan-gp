@@ -1,0 +1,17 @@
+
+        Machine Learning Utility Report
+        ===============================
+        Model: LGBMClassifier
+
+        This report compares a model trained on real data (baseline) against a
+        model trained on synthetic data. Both are tested on a held-out set
+        of real data.
+
+        Baseline (Train on Real, Test on Real):
+        - Accuracy:  1.0000
+        - F1-Score:  1.0000
+
+        TSTR (Train on Synthetic, Test on Real):
+        - Accuracy:  0.9999
+        - F1-Score:  0.9999
+        
