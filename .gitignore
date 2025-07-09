@@ -3,3 +3,4 @@
 *.orig
 tmp
 venv
+data
